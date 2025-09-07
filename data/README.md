@@ -1,1 +1,1 @@
-﻿Sources & instructions only (no raw files in git).
+﻿Documented sources only.
