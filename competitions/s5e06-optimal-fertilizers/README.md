@@ -1,0 +1,1 @@
+﻿# S5E6 - optimal fertilizers  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s5e6  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s5e6 -p ".\competitions\s5e06-optimal-fertilizers\input"

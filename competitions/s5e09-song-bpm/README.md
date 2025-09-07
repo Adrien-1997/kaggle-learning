@@ -1,0 +1,1 @@
+﻿# S5E9 - song bpm  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s5e9  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s5e9 -p ".\competitions\s5e09-song-bpm\input"

@@ -1,0 +1,1 @@
+﻿# S4E1 - bank churn  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s4e1  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s4e1 -p ".\competitions\s4e01-bank-churn\input"

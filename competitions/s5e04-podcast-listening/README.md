@@ -1,0 +1,1 @@
+﻿# S5E4 - podcast listening  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s5e4  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s5e4 -p ".\competitions\s5e04-podcast-listening\input"

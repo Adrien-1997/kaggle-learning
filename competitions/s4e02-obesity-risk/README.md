@@ -1,0 +1,1 @@
+﻿# S4E2 - obesity risk  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s4e2  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s4e2 -p ".\competitions\s4e02-obesity-risk\input"

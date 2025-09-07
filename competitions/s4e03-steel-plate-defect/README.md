@@ -1,0 +1,1 @@
+﻿# S4E3 - steel plate defect  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s4e3  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s4e3 -p ".\competitions\s4e03-steel-plate-defect\input"

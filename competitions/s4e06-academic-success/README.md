@@ -1,0 +1,1 @@
+﻿# S4E6 - academic success  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s4e6  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s4e6 -p ".\competitions\s4e06-academic-success\input"

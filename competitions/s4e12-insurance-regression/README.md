@@ -1,0 +1,1 @@
+﻿# S4E12 - insurance regression  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s4e12  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s4e12 -p ".\competitions\s4e12-insurance-regression\input"

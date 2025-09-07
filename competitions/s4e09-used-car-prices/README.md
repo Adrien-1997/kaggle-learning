@@ -1,0 +1,1 @@
+﻿# S4E9 - used car prices  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s4e9  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s4e9 -p ".\competitions\s4e09-used-car-prices\input"

@@ -1,0 +1,1 @@
+﻿# S4E7 - insurance cross sell  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s4e7  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s4e7 -p ".\competitions\s4e07-insurance-cross-sell\input"

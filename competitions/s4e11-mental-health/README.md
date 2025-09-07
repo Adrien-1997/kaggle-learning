@@ -1,0 +1,1 @@
+﻿# S4E11 - mental health  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s4e11  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s4e11 -p ".\competitions\s4e11-mental-health\input"

@@ -1,0 +1,1 @@
+﻿# S5E2 - backpack prediction  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s5e2  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s5e2 -p ".\competitions\s5e02-backpack-prediction\input"

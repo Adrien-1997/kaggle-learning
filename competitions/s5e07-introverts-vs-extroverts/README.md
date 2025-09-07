@@ -1,0 +1,1 @@
+﻿# S5E7 - introverts vs extroverts  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s5e7  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s5e7 -p ".\competitions\s5e07-introverts-vs-extroverts\input"

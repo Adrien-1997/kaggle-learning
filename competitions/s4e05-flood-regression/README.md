@@ -1,0 +1,1 @@
+﻿# S4E5 - flood regression  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s4e5  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s4e5 -p ".\competitions\s4e05-flood-regression\input"

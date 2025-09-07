@@ -1,0 +1,1 @@
+﻿# S4E8 - poisonous mushrooms  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s4e8  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s4e8 -p ".\competitions\s4e08-poisonous-mushrooms\input"

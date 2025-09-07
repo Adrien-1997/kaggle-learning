@@ -1,0 +1,1 @@
+﻿# S4E10 - loan approval  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s4e10  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s4e10 -p ".\competitions\s4e10-loan-approval\input"

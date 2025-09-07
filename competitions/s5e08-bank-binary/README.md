@@ -1,0 +1,1 @@
+﻿# S5E8 - bank binary  **Kaggle page:** https://www.kaggle.com/competitions/playground-series-s5e8  - Put EDA/baseline/modeling notebooks in `notebooks/`. - Download data into `input/` with Kaggle CLI:   py -m kaggle competitions download -c playground-series-s5e8 -p ".\competitions\s5e08-bank-binary\input"
