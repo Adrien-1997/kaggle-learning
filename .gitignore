@@ -4,3 +4,5 @@ __pycache__/
 .kaggle/
 competitions/*/input/
 competitions/*/working/
+
+donnee-*.csv
